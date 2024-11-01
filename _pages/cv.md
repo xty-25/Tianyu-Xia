@@ -16,7 +16,7 @@ Education
 Research experience
 ======
 Boston University (Advisor: **Prof. Jixin Cheng**):
-------
+-----
 * Extracting MIP signals from water background using PLS for lipid synthesis study
   * Developed a novel background removal algorithm tailored for hyperspectral data to effectively isolate signal peaks from the background noise
   * Implemented the method to MIP data, successfully extracting peaks while preserving the spatial and intensity characteristics of the original signals
