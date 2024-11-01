@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also find my CV here: [Tianyu Xia's Curriculum Vitae](assets/CV_Tianyu Xia.pdf).
+
 Education
 ======
 * B.S. in **Opto-Electronics Science and Engineering**, Zhejiang University, 2025(expected)
