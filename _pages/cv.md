@@ -38,7 +38,7 @@ Zhejiang University
   
 Publications
 ======
-  * Xinyan Teng, **Tianyu Xia**, Jiaze Yin, Guangrui Ding, Jianpeng Ao, Mingsheng Li, Haonan Lin, Daniela Mateia, Hongjian He*, Ji-Xin Cheng*, “Measuring Fatty Acid Unsaturation in Cancer Cells via Mid-Infrared Photothermal Imaging.” *(Manuscript in Preparation)*
+  * Xinyan Teng, **Tianyu Xia**, Jiaze Yin, Guangrui Ding, Jianpeng Ao, Mingsheng Li, Haonan Lin, Daniela Mateia, Hongjian He\*, Ji-Xin Cheng\*, “Measuring Fatty Acid Unsaturation in Cancer Cells via Mid-Infrared Photothermal Imaging.” *(Manuscript in Preparation)*
 
 Leadership & Volunteer experience
 ======
