@@ -13,7 +13,7 @@ You can also find my CV here: [Tianyu Xia's Curriculum Vitae](https://xty-25.git
 
 Education
 ======
-* B.S. in **Opto-Electronics Science and Engineering**, Zhejiang University, 2025(expected)
+* B.E. in **Opto-Electronics Science and Engineering**, Zhejiang University, 2025(expected)
 
 Research experience
 ======
