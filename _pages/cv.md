@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,18 +16,18 @@ Education
 Research experience
 ======
 * Boston University (Advisor: **Prof. Jixin Cheng**):
-* Extracting MIP signals from water background using PLS for lipid synthesis study
+* **Extracting MIP signals from water background using PLS for lipid synthesis study**
   * Developed a novel background removal algorithm tailored for hyperspectral data to effectively isolate signal peaks from the background noise
   * Implemented the method to MIP data, successfully extracting peaks while preserving the spatial and intensity characteristics of the original signals
   * Demonstrated that the new algorithm outperformed traditional subtraction method in both accuracy and robustness, providing a versatile solution for background removal in hyperspectral imaging data
   * Detected fatty acid unsaturation in cancer cells via MIP image process
-
+-----
 * Zhejiang University (Advisor: **Prof. Huafeng Liu**)
-* Deep learning framework for enhancing TOF performance of PET detector
+* **Deep learning framework for enhancing TOF performance of PET detector**
   * Gained expertise in deep learning-based PET detector timing algorithm combining Transformer and Convolutional Neural Networks (CNNs)
   * Transformed the original regression network to a classification network, trying to enhance Coincidence Time Resolution (CTR)
   * Leveraged a simulation system to generate comprehensive training data
-
+-----
 * Zhejiang University 
   * Developed an eye-tracking interaction system based on Conv-LSTM using DVS data
   * Created a program of image processing for silicon wafer counting based on Matlab
