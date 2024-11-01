@@ -12,4 +12,4 @@ My research interest includes **Computational imaging, Signal processing, and Ma
 
 My previous research focused on image processing. I am very fortunate to be advised by [Prof.Jixin Cheng](https://sites.bu.edu/cheng-group/) at [Boston University](https://www.bu.edu) as a summer intern student. I had the privilege to work with [Prof.Huafeng Liu](https://scholar.google.com/citations?user=JbkbGvEAAAAJ&hl=en) at [Zhejiang University](http://opt.zju.edu.cn).
 
-You are welcome to view my **CV** and contact me via **email**. 
+You are welcome to view my [CV](https://xty-25.github.io/Tianyu-Xia/cv/) and contact me via **email**. 
