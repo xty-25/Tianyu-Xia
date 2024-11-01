@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also find my CV here: [Tianyu Xia's Curriculum Vitae](assets/CV_Tianyu Xia.pdf).
+You can also find my CV here: [Tianyu Xia's Curriculum Vitae](https://xty-25.github.io/Tianyu-Xia/assets/CV_Tianyu Xia.pdf).
 
 Education
 ======
