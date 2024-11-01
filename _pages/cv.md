@@ -15,6 +15,7 @@ Education
 
 Research experience
 ======
+
 Boston University (Advisor: **Prof. Jixin Cheng**):
 -----
 * Extracting MIP signals from water background using PLS for lipid synthesis study
