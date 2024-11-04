@@ -26,9 +26,9 @@ Boston University (Advisor: **Prof. Jixin Cheng**):
   
 Zhejiang University (Advisor: **Prof. Huafeng Liu**)
   * Deep learning framework for enhancing TOF performance of PET detector
-    * Gained expertise in deep learning-based PET detector timing algorithm combining Transformer and Convolutional Neural Networks (CNNs)
-    * Transformed the original regression network to a classification network, trying to enhance Coincidence Time Resolution (CTR)
-    * Leveraged a simulation system to generate comprehensive training data
+    * Gained expertise in deep learning-based Positron Emission Tomography (PET) detector timing algorithm combining Transformer and Convolutional Neural Networks (CNNs)
+    * Transformed original regression network to a classification network to enhance Coincidence Time Resolution (CTR)
+    * Leveraged a Linux-based simulation system to generate comprehensive training data for machine learning
 
 Zhejiang University 
   * Developed an eye-tracking interaction system based on Conv-LSTM using DVS data
