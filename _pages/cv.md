@@ -19,21 +19,21 @@ Research experience
 ======
 Boston University (Advisor: **Prof. Jixin Cheng**):
   * Extracting MIP signals from water background using PLS for lipid synthesis study
-    * Developed a novel background removal algorithm tailored for hyperspectral data to effectively isolate signal peaks from the background noise
-    * Implemented the method to MIP data, successfully extracting peaks while preserving the spatial and intensity characteristics of the original signals
-    * Demonstrated that the new algorithm outperformed traditional subtraction method in both accuracy and robustness, providing a versatile solution for background removal in hyperspectral imaging data
-    * Detected fatty acid unsaturation in cancer cells via MIP image process
+    * Developed a novel background removal algorithm tailored for hyperspectral data to effectively isolate signal peaks from the background noise; Implemented the method on MIP and SRS data
+    * Extracted peaks while preserving the spatial and intensity characteristics of the original signals; Demonstrated better performance with better accuracy and robustness over traditional subtraction method
+    * Provided a versatile solution for background removal in hyperspectral imaging data; Established a standardized procedure for detecting signals of specific cellular structures
+    * Detected fatty acid unsaturation in cancer cells via MIP image process; Separated the lipids for statistical research; Verified the hypothesis through quantitative analysis
   
 Zhejiang University (Advisor: **Prof. Huafeng Liu**)
-  * Deep learning framework for enhancing TOF performance of PET detector
-    * Gained expertise in deep learning-based Positron Emission Tomography (PET) detector timing algorithm combining Transformer and Convolutional Neural Networks (CNNs)
-    * Transformed original regression network to a classification network to enhance Coincidence Time Resolution (CTR)
+  * Deep learning for enhancing reconstruction performance of PET via TOF information
     * Leveraged a Linux-based simulation system to generate comprehensive training data for machine learning
+    * Gained expertise in Deep learning based Positron Emission Tomography (PET) reconstruction algorithm via Time Of Flight (TOF) information combining Convolutional Neural Network (CNN) and Transformer
+    * Transformed original regression network to a classification network to reduce Coincidence Time Resolution (CTR)
 
 Zhejiang University 
   * Developed an eye-tracking interaction system based on Conv-LSTM using DVS data
-  * Created a program of image processing for silicon wafer counting based on Matlab
-  * Contributed to PCB circuit design and programming
+  * Created an image processing algorithm for silicon wafer counting based on Matlab
+  * Contributed to a PCB circuit design and programming project
   * Designed optical lenses based on Zemax 
   
 Publications
@@ -43,11 +43,10 @@ Publications
 Leadership & Volunteer experience
 ======
   * Served as the main person in charge of the community of Drama Society
+  * Participated in social practices about Traditional Theatre; Received School-level Outstanding Social Practice awards
   * Undertook volunteer activities for more than 20 hours
-  * Participated in social practices about Traditional Theatre and Local Diets
     
 Personal ability 
 ======
-  * Programming: Advanced in Matlab, PyTorch, C++
-  * Language skills: TOEFL 103 (R:26 L:28 S:21 W:28)
-  * Personality traits: Positive with bright mind, A stable personality, A high sense of responsibility
+  * Programming: Advanced in Matlab, PyTorch, C++, Zemax
+  * Language skills: TOEFL 103 (R:26 L:28 S:21 W:28) GRE 322 (153+169)
