@@ -29,6 +29,7 @@ Zhejiang University (Advisor: **Prof. Huafeng Liu**)
     * Leveraged a Linux-based simulation system to generate comprehensive training data for machine learning
     * Gained expertise in Deep learning based Positron Emission Tomography (PET) reconstruction algorithm via Time Of Flight (TOF) information combining Convolutional Neural Network (CNN) and Transformer
     * Transformed original regression network to a classification network to reduce Coincidence Time Resolution (CTR)
+    * Mastered in machine learning and simulation systems programming based on Python
 
 Zhejiang University 
   * Developed an eye-tracking interaction system based on Conv-LSTM using DVS data
@@ -40,13 +41,7 @@ Publications
 ======
   * Xinyan Teng, **Tianyu Xia**, Jiaze Yin, Guangrui Ding, Jianpeng Ao, Mingsheng Li, Haonan Lin, Daniela Mateia, Hongjian He\*, Ji-Xin Cheng\*, “Measuring Fatty Acid Unsaturation in Cancer Cells via Mid-Infrared Photothermal Imaging.” *(Manuscript in Preparation)*
 
-Leadership & Volunteer experience
-======
-  * Served as the main person in charge of the community of Drama Society
-  * Participated in social practices about Traditional Theatre; Received School-level Outstanding Social Practice awards
-  * Undertook volunteer activities for more than 20 hours
-    
 Personal ability 
 ======
   * Programming: Advanced in Matlab, PyTorch, C++, Zemax
-  * Language skills: TOEFL 103 (R:26 L:28 S:21 W:28) GRE 322 (153+169)
+  * Experienced in two overseas exchange programs and fluent in English communication
